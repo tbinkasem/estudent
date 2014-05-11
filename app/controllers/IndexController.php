@@ -5,3 +5,5 @@ class IndexController extends \Phalcon\Mvc\Controller {
 		$this->view->items = Users::find(); //ดึงข้อมูลจากตาราง users
 	}
 }
+
+
