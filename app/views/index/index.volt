@@ -1,3 +1,3 @@
 {% for item in items %}
-<li>{{ item.name|e}}</li>
-{% endfor%}
+<li> {{ item.name|e}}</li>
+{%endfor%}
