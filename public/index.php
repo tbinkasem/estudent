@@ -4,5 +4,5 @@ echo "Teera Test file index last!!";
 echo "kamphee";
 echo "kanda";
 echo "prangchan";
-echo "The One";
+echo "The One Special";
 ?>
